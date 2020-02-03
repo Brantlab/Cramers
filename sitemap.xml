@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://brantlab.com/Cramers/about_us/</loc>
+  </url>
+  
+  <url>
     <loc>https://brantlab.com/Cramers/categories/</loc>
   </url>
   
   <url>
     <loc>https://brantlab.com/Cramers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brantlab.com/Cramers/generator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brantlab.com/Cramers/prices/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brantlab.com/Cramers/services/</loc>
   </url>
   
   <url>
